@@ -1,0 +1,4 @@
+- 😁 Hello, I’m @wacwestley
+- 😎 I’m interested in becoming a Software Develepor and further growing my knowledge of coding.
+- 🎓 I’m currently learning React-Native immediately after learning React as part of my MERN based Bootcamp called NuCamp.
+- ✉️ Feel free to reach out for anything like collaborations, jobs, or just to say hi! wacwestley@gmail.com
